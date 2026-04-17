@@ -31,7 +31,6 @@ O repositório está organizado por tópicos evolutivos, acompanhando a grade da
 Após 5 anos operando sistemas ERP em farmácias de manipulação, hoje estou do outro lado: aprendendo a construí-los. Estudante de ADS na FATEC Franca, sou uma profissional aberta a novos aprendizados e apaixonada pela descoberta de como a lógica e os dados se unem para resolver problemas reais. Em busca constante de evolução técnica e novos conhecimentos na área de TI.
 
 📫 **Como me encontrar:**
-*(Linkedin)[www.linkedin.com/in/anavitoriaalves]
-
-*(E-mail)[anavivi143@gmail.com]
+* (Linkedin)[www.linkedin.com/in/anavitoriaalves]
+* (E-mail)[anavivi143@gmail.com]
 
